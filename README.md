@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Github+profile!;I'm+frontend+developer;Have+a+nice+day!)](https://git.io/typing-svg)
+
 <!--
 **FredBros/FredBros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
