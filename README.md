@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Welcome+to+my+Github+profile+!;I'm+front+end+developer.;Have+a+nice+day+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=false&width=435&lines=Welcome+to+my+Github+profile+!;I'm+front+end+developer.;Have+a+nice+day+!)](https://git.io/typing-svg)
 
 <!--
 **FredBros/FredBros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
