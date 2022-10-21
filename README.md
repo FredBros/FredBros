@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://my-portfolio-blog-oewsj9wj3-fredbros.vercel.app/blog/contact)
-![](https://komarev.com/ghpvc/?username=FredBros&color=orange)
+[![](https://komarev.com/ghpvc/?username=FredBros&color=orange)]
 
 ![](https://dcbadge.vercel.app/api/shield/128941820725035009)
 
