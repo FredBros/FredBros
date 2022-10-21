@@ -44,12 +44,15 @@ Green Sock	![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FredBros&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FredBros&layout=compact)
 
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21tip4ccxgl7my5o2hkojwfta&cover_image=true&theme=default&show_offline=false)](https://spotify-github-profile.vercel.app/api/view?uid=21tip4ccxgl7my5o2hkojwfta&redirect=true)
 <!-- TODO-IST:START -->
 <!-- TODO-IST:END -->
 
+
+
 <!--START_SECTION:activity-->
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21tip4ccxgl7my5o2hkojwfta&cover_image=true&theme=natemoo-re&show_offline=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=21tip4ccxgl7my5o2hkojwfta&redirect=true)
