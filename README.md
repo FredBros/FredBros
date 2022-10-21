@@ -54,5 +54,6 @@ Green Sock	![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=
 
 
 <!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21tip4ccxgl7my5o2hkojwfta&cover_image=true&theme=natemoo-re&show_offline=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=21tip4ccxgl7my5o2hkojwfta&redirect=true)
