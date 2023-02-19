@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg?style=for-the-badge)](https://my-portfolio-blog-oewsj9wj3-fredbros.vercel.app/blog/contact)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg?style=for-the-badge)](https://www.fredbrowww.com/contact)
 ![](https://komarev.com/ghpvc/?username=FredBros&style=for-the-badge&color=orange)
 
 
