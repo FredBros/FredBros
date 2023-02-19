@@ -26,23 +26,8 @@ Here are some ideas to get you started:
 ![](https://api.visitorbadge.io/api/VisitorHit?user=FredBros&repo=github-visitors-badge&countColor=%237B1E7A)
 [![GitHub stars](https://img.shields.io/github/stars/FredBros/FredBros.svg?style=for-the-badge&label=Star&maxAge=2592000)](https://GitHub.com/FredBros/FredBros/)
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
-![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fred-brossard-073358206/) 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/tTjAfNyJ)
-[![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)](]https://us05web.zoom.us/j/7763722470?pwd=SWZBNXYxZTdOSmpMaHJZSDFMeTZRUT09)
+
+
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FredBros&layout=compact)
@@ -56,8 +41,6 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21tip4ccxgl7my5o2hkojwfta&cover_image=true&theme=natemoo-re&show_offline=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=21tip4ccxgl7my5o2hkojwfta&redirect=true)
 
 
 
